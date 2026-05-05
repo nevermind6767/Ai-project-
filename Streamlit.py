@@ -1,3 +1,3 @@
 import streamlit as st
-st.title("my fist")
+st.title("my first app")
 st.write("helllooo")
